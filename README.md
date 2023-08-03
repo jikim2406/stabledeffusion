@@ -1,2 +1,0 @@
-# stablediffusion
-stabledeffusion
