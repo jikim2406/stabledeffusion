@@ -1,2 +1,2 @@
-# stabledeffusion
+# stablediffusion
 stabledeffusion
