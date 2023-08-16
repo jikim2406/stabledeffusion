@@ -1,1 +1,5 @@
-
+CFG Scale 20
+Mimic CFG Scale 10
+Top percentile of latents to clamp 99
+cosine up/ half cosine down
+Minimum value of the CFG Scale Scheduler 10
